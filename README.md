@@ -10,11 +10,11 @@ This data set has 48000+ datapoints containg a basic information about the pizza
 Extracted Metrics such as total_revnue,total_orders,avg_order_value,total_pizzas_sold by writing My-Sql quieries.
 
 **Metrics** :
-1. Total Revenue: Sum of total price of each Order.
-2. Total Orders: Number of distinct order_id will give the total orders.
-3. Average Order Value: Total Revenue divided by Total orders.
-4.Total Pizzas Sold: Sum of quantity of each pizza from all orders.
-5.Average Pizzas per Order: Total Pizzas Sold divided by Total Orders will give Average pizzas sold.
+  * Total Revenue: Sum of total price of each Order.
+  * Total Orders: Number of distinct order_id will give the total orders.
+  * Average Order Value: Total Revenue divided by Total orders.
+  * Total Pizzas Sold: Sum of quantity of each pizza from all orders.
+  * Average Pizzas per Order: Total Pizzas Sold divided by Total Orders will give Average pizzas sold.
 
 These metrics helps in extracting the daily & monthly trends as well as top_selling_pizzas by revenue,quantity & total_orders by writing few queries.
 
