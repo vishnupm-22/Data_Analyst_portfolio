@@ -6,7 +6,7 @@
     
 This data set has 48000+ datapoints containg a basic information about the pizzas such as order_id,pizza_id,quantity,order_date,order_time,total_price,pizza_category,pizza_name that were sold in 1 year.
 
-## My_SQL ## : 
+## My_SQL## : 
 Extracted Metrics such as total_revnue,total_orders,avg_order_value,total_pizzas_sold by writing My-Sql quieries.
 
 **Metrics** :
@@ -22,9 +22,9 @@ These metrics helps in extracting the daily & monthly trends as well as top_sell
 Imported the data from MySql server and transformed these data to get new columns such as day name,day number,month name & month number.
 Extracted these Metrics (Total Revenue,Total Orders,Average Order Value,Total Pizzas Sold,Average Pizzas per Order) by writing the DAX expressions.
 
-Created a Complete Data-Visualization dashboard analyzing the daily & monthly trends on first page ,worst & best pizza sellers on 2nd page.
+Created a Complete Data-Visualization dashboard analyzing the daily & monthly trends on first page ,worst & best pizza sellers on 2nd page:
 
-**Fist_page** : 
+**First_page** : 
  * Analyzed the bussiest times by visualizing daily trends & monthly trends for total orders.
  * Analyzed the sales performance by pizza category & pizza size.
    
