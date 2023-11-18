@@ -18,7 +18,8 @@ Extracted Metrics such as total_revnue,total_orders,avg_order_value,total_pizzas
 
 These metrics helps in extracting the daily & monthly trends as well as top_selling_pizzas by revenue,quantity & total_orders by writing few queries.
 
-## POWER-BI ##
+## POWER-BI ## :
+Importing the data from MySql server and transforming the data 
 
 
 
