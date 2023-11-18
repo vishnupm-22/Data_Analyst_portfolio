@@ -6,7 +6,7 @@
     
 This data set has 48000+ datapoints containg a basic information about the pizzas such as order_id,pizza_id,quantity,order_date,order_time,total_price,pizza_category,pizza_name that were sold in 1 year.
 
-## My_SQL## : 
+## My_SQL ## : 
 Extracted Metrics such as total_revnue,total_orders,avg_order_value,total_pizzas_sold by writing My-Sql quieries.
 
 **Metrics** :
